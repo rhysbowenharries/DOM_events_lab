@@ -1,3 +1,17 @@
 body {
   font-family: Palatino;
 }
+
+#reading-list {
+  font-size: 20px;
+}
+
+#reading-list li {
+  background-color: lightblue;
+  width: 50%;
+  border-radius: 5px;
+  border: solid 1px grey;
+  list-style-type: none;
+  margin: 20px;
+  
+}
